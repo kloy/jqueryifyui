@@ -1,0 +1,1 @@
+module.exports = require('./development-bundle/ui/jquery-ui-1.8.18.custom');

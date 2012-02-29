@@ -1,0 +1,23 @@
+{
+  "name": "jqueryifyui",
+  "description": "jQuery UI lib for browsers with jqueryify",
+  "version": "1.8.18",
+  "homepage": "http://jqueryui.com/",
+  "licenses": [
+  {
+    "type": "MIT",
+    "url": "http://jqueryui.com/latest/MIT-LICENSE.txt"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/keith-loy/jqueryify.git"
+  },
+  "author": "Keith Loy <info@keithloy.me>",
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "jqueryify": "0.0.x"
+  }
+}
