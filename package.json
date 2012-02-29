@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/keith-loy/jqueryify.git"
+    "url": "git://github.com/keith-loy/jqueryifyui.git"
   },
   "author": "Keith Loy <info@keithloy.me>",
   "engines": {
@@ -20,5 +20,7 @@
   "main": "./index.js",
   "dependencies": {
     "jqueryify": "0.0.x"
-  }
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
 }
