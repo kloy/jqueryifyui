@@ -4,10 +4,11 @@
   "version": "1.8.18",
   "homepage": "http://jqueryui.com/",
   "licenses": [
-  {
-    "type": "MIT",
-    "url": "http://jqueryui.com/latest/MIT-LICENSE.txt"
-  }
+    {
+      "type": "MIT",
+      "url": "http://jqueryui.com/latest/MIT-LICENSE.txt"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/keith-loy/jqueryify.git"
